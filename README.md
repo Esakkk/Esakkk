@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🙋🏻‍♂️ About Me 🙌🏻</h3>
+<h2 align="left">🙋🏻‍♂️ About Me 🙌🏻</h2>
 
 ###
 
@@ -34,9 +34,21 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h4 align="left">THAT WAS NOT ME!<br><br>I JUST WANT TO MARRY EUNSOOOOO <br>OMO OMO LOOK HOW CUTE SHE IS LOL :D</h4>
 
 ###
+
+<img align="left" height="200" src="https://m.media-amazon.com/images/M/MV5BMGUzNDdmZDQtMjAzYy00MzQ0LWJkZWQtYmM2YjU2NDgwNTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  />
+
+###
+
+<br clear="both">
+
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -110,6 +122,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esakkk/esakkk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esakkk/esakkk/output/pacman-contribution-graph.svg">
@@ -118,18 +132,16 @@
 
 ###
 
-<div align="left">
+<h3 align="center">Besides being a big fan of Eunsoo, I actually spend a lot of my free time enjoying music</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://open.spotify.com/user/314g7hi5ofdg76gtx2iqtdvznbhq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314g7hi5ofdg76gtx2iqtdvznbhq&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img align="left" height="200" src="https://m.media-amazon.com/images/M/MV5BMGUzNDdmZDQtMjAzYy00MzQ0LWJkZWQtYmM2YjU2NDgwNTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  />
-
-###
-
-<h4 align="left">OMO OMO SO CUTE NGL<br>I WISH I CAN MARRY THIS GIRL</h4>
 
 ###
