@@ -34,11 +34,11 @@
 
 ###
 
-<h4 align="left">THAT WAS NOT ME!<br><br>I JUST WANT TO MARRY EUNSOOOOO <br>OMO OMO LOOK HOW CUTE SHE IS LOL :D</h4>
+<img align="left" height="200" src="https://m.media-amazon.com/images/M/MV5BMGUzNDdmZDQtMjAzYy00MzQ0LWJkZWQtYmM2YjU2NDgwNTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  />
 
 ###
 
-<img align="left" height="200" src="https://m.media-amazon.com/images/M/MV5BMGUzNDdmZDQtMjAzYy00MzQ0LWJkZWQtYmM2YjU2NDgwNTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  />
+<h4 align="left">THAT WAS NOT ME!<br><br>I JUST WANT TO MARRY EUNSOOOOO <br>OMO OMO LOOK HOW CUTE SHE IS LOL :D</h4>
 
 ###
 
