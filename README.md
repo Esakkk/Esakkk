@@ -34,11 +34,13 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="200" src="https://m.media-amazon.com/images/M/MV5BMGUzNDdmZDQtMjAzYy00MzQ0LWJkZWQtYmM2YjU2NDgwNTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  />
 
 ###
 
-<h4 align="left">THAT WAS NOT ME!<br><br>I JUST WANT TO MARRY EUNSOOOOO <br>OMO OMO LOOK HOW CUTE SHE IS LOL :D</h4>
+<h4 align="left">EUNSOO BIGFAN <br><br>I HOPE I CAN MEET HER<br>OMO OMO LOOK HOW CUTE SHE IS LOL :D</h4>
 
 ###
 
@@ -131,6 +133,8 @@
 </picture>
 
 ###
+
+<br clear="both">
 
 <h3 align="center">Besides being a big fan of Eunsoo, I actually spend a lot of my free time enjoying music</h3>
 
