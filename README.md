@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">I'm a 19 y.O Junior Network Engineer & Backend Developer<br><br>- 🔭 Curently working as Helpdesk Network Engineer<br>- 📚 I'm currently learning Next.js<br>- 👉🏽 Reach me in m.hardianesa17@gmail.com<br>- 📊 Portofolio Web not ready yet ( well im too lazy to make this )</h4>
+<h4 align="left">I'm a 19 y.O Junior Network Engineer & Backend Developer<br><br>- 🔭 Curently working as Helpdesk Network Engineer<br>- 📚 I'm currently learning Next.js<br>- 👉🏽 Reach me in m.hardianesa17@gmail.com<br>- 📊 Portofolio Web <a href='https://esaa.vercel.app'/></h4>
 
 ###
 
